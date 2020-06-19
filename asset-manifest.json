@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TropaLandingPage/static/css/main.5f361e03.chunk.css",
+    "main.js": "/TropaLandingPage/static/js/main.51c57158.chunk.js",
+    "main.js.map": "/TropaLandingPage/static/js/main.51c57158.chunk.js.map",
+    "runtime-main.js": "/TropaLandingPage/static/js/runtime-main.cd37fc5f.js",
+    "runtime-main.js.map": "/TropaLandingPage/static/js/runtime-main.cd37fc5f.js.map",
+    "static/js/2.d9ebb067.chunk.js": "/TropaLandingPage/static/js/2.d9ebb067.chunk.js",
+    "static/js/2.d9ebb067.chunk.js.map": "/TropaLandingPage/static/js/2.d9ebb067.chunk.js.map",
+    "index.html": "/TropaLandingPage/index.html",
+    "precache-manifest.2bc061a8ffe8752d8ec6290ece988f66.js": "/TropaLandingPage/precache-manifest.2bc061a8ffe8752d8ec6290ece988f66.js",
+    "service-worker.js": "/TropaLandingPage/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/TropaLandingPage/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d9ebb067.chunk.js.LICENSE.txt": "/TropaLandingPage/static/js/2.d9ebb067.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/TropaLandingPage/static/media/logo.5d5d9eef.svg",
+    "static/media/pic.png": "/TropaLandingPage/static/media/pic.3fbaea1e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd37fc5f.js",
+    "static/js/2.d9ebb067.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.51c57158.chunk.js"
+  ]
+}
